@@ -30,4 +30,14 @@ Além da velocidade de um algoritmo, acho importante considerar a manutenibilida
 ### 1.1-3
 Uma estrutura de dados são as matrizes. Elas são conjuntos de array de duas dimenssões. Acredito que o ponto negativo de utuliza-las é a complexidade adicional na manipulação dos dados.
 
+### 1.1-4
+São semelhantes por ter como objetivo buscar a menor distância percorrida. A diferença é que no problema do caminho mais curto, é a distância entre dois pontos. Já no traveling-salesperson temos múltiplas combinações entre os pontos.
+
+### 1.1-5
+Um problema que apenas a melhor solução é eficiente é a orientação da navegação da torre de comando da torre de comando de um aeroporto. Qualquer erro nas instruções pode gerar tragédias com muitas vítimas. 
+
+Já um que a melhor solução aproximada é uma rota de GPS para um determinado destino em uma cidade grande. É possível ter vários caminhos com várias condições de trânsito e distâncias de rotas.
+
+### 1.1-6
+
 
