@@ -39,5 +39,6 @@ Um problema que apenas a melhor solução é eficiente é a orientação da nave
 Já um que a melhor solução aproximada é uma rota de GPS para um determinado destino em uma cidade grande. É possível ter vários caminhos com várias condições de trânsito e distâncias de rotas.
 
 ### 1.1-6
+Um exemplo de problema que às vezes tem toda a entrada disponível é as eleições, já que todos os votos são inseridos e depois computados. Já um exemplo que não faz diferença são as campanhas personalizadas de marketing baseada nos dados pessoais coletados na internet, com poucas informações é possível sugerir opções de compra. 
 
 
